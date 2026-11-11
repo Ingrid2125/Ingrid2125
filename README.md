@@ -17,9 +17,9 @@ I've also built a product recommendation system for a cash-and-carry wholesaler 
 
 ## Tools I use
 
-**Data and querying:** Python (pandas, NumPy), SQL, PySpark, R, Databricks
-**Machine learning and AI:** scikit-learn, XGBoost, CatBoost, PyTorch Geometric, Hugging Face, RAG, Azure OpenAI, Langflow
-**BI and visualisation:** Power BI, Tableau, Looker, Excel (Power Query)
+- **Data and querying:** Python (pandas, NumPy), SQL, PySpark, R, Databricks
+- **Machine learning and AI:** scikit-learn, XGBoost, CatBoost, PyTorch Geometric, Hugging Face, RAG, Azure OpenAI, Langflow
+- **BI and visualisation:** Power BI, Tableau, Looker, Excel (Power Query)
 
 ## Get in touch
 
